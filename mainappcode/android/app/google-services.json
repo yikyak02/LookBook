@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "662164708776",
+    "project_id": "look-book-y3ih9l",
+    "storage_bucket": "look-book-y3ih9l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662164708776:android:bbfa7ab555a8c45a59919d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662164708776-pkra1qgvr3ag21ninck5koktep52igmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcbT3YW4Q02UpkwSOFC9C1FRMoqkbFBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662164708776-pkra1qgvr3ag21ninck5koktep52igmd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662164708776-35sda1cjk0oqlissqvki7lrefqlh3slc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fluttermet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
